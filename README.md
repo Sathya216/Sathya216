@@ -18,3 +18,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge)](https://sathyapriya21.netlify.app)
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+
+### 📊 GitHub Stats
+![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathya216&show_icons=true&theme=radical)
