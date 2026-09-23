@@ -52,13 +52,7 @@ fun_fact: "I turn Figma designs into real, working code."
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathya216&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
----
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sathya216&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
