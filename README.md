@@ -73,3 +73,20 @@ fun_fact: "I turn Figma designs into real, working code."
 ### 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Sathya216/Sathya216/output/github-contribution-grid-snake-dark.svg)
+
+
+---
+
+### 💻 whoami
+
+```bash
+sathya@github:~$ whoami
+
+Final-year CSE student, building towards AI-powered frontend development.
+Turning Figma designs into real, working React interfaces.
+Currently sharpening Python + backend/AI skills.
+
+sathya@github:~$ cat philosophy.txt
+
+"Every bug fixed is a lesson learned. Every project shipped is proof of growth."
+```
