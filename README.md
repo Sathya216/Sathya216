@@ -57,7 +57,7 @@ fun_fact: "I turn Figma designs into real, working code."
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sathya216&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sathya216&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -67,7 +67,6 @@ fun_fact: "I turn Figma designs into real, working code."
 ![Profile Views](https://komarev.com/ghpvc/?username=Sathya216&color=blueviolet&style=for-the-badge)
 
 </div>
-
 
 
 ### 🐍 Contribution Snake
