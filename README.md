@@ -67,3 +67,9 @@ fun_fact: "I turn Figma designs into real, working code."
 ![Profile Views](https://komarev.com/ghpvc/?username=Sathya216&color=blueviolet&style=for-the-badge)
 
 </div>
+
+
+
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Sathya216/Sathya216/output/github-contribution-grid-snake-dark.svg)
